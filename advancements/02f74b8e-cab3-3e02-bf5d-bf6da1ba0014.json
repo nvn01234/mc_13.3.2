@@ -1,0 +1,23 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-02-05 00:46:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-02-05 00:46:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2019-02-05 00:47:06 +0700",
+      "minecraft:mountains": "2019-02-05 00:44:28 +0700",
+      "minecraft:wooded_hills": "2019-02-05 00:44:42 +0700",
+      "minecraft:plains": "2019-02-05 00:47:04 +0700"
+    },
+    "done": false
+  }
+}
