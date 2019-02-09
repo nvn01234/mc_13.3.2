@@ -590,13 +590,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-01-10 23:48:50 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-01-10 23:48:50 +0700"
     },
@@ -1066,13 +1066,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-01-13 22:03:55 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-01-13 22:03:55 +0700"
     },
@@ -1574,6 +1574,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_the_recipe": "2019-01-15 22:26:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2019-02-09 13:18:34 +0700"
     },
     "done": true
   },
@@ -2127,6 +2133,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2019-01-19 21:17:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-02-09 16:14:43 +0700"
     },
     "done": true
   },
