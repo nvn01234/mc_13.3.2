@@ -482,6 +482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-02-10 20:59:07 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2019-01-07 23:51:44 +0700"
@@ -540,6 +546,7 @@
     "criteria": {
       "minecraft:skeleton": "2019-01-08 00:31:39 +0700",
       "minecraft:phantom": "2019-01-14 22:26:33 +0700",
+      "minecraft:zombie_pigman": "2019-02-10 21:43:44 +0700",
       "minecraft:cave_spider": "2019-01-16 00:06:41 +0700",
       "minecraft:enderman": "2019-02-08 00:15:53 +0700",
       "minecraft:spider": "2019-01-08 00:30:32 +0700",
@@ -1129,6 +1136,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-01-13 20:48:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-02-10 21:08:01 +0700"
     },
     "done": true
   },
@@ -2188,6 +2201,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-01-07 23:55:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-02-10 22:56:28 +0700"
     },
     "done": true
   },

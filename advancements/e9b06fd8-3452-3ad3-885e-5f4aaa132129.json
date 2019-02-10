@@ -546,13 +546,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-01-12 00:41:06 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-01-12 00:41:06 +0700"
     },
@@ -738,6 +738,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-01-08 21:28:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2019-02-11 00:05:26 +0700"
     },
     "done": true
   },
@@ -981,13 +987,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-01-08 23:28:39 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-01-08 23:28:39 +0700"
     },
@@ -1018,6 +1024,7 @@
       "minecraft:phantom": "2019-01-14 22:28:47 +0700",
       "minecraft:witch": "2019-01-19 22:01:35 +0700",
       "minecraft:wither_skeleton": "2019-01-16 12:37:01 +0700",
+      "minecraft:zombie_pigman": "2019-02-10 22:46:16 +0700",
       "minecraft:ghast": "2019-01-16 12:45:30 +0700",
       "minecraft:cave_spider": "2019-01-16 00:06:13 +0700",
       "minecraft:silverfish": "2019-01-14 23:27:22 +0700",
