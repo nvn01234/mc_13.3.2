@@ -663,8 +663,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2019-01-13 22:30:20 +0700",
-      "minecraft:wolf": "2019-01-12 11:31:46 +0700",
       "minecraft:pig": "2019-01-19 01:08:45 +0700",
+      "minecraft:wolf": "2019-01-12 11:31:46 +0700",
       "minecraft:sheep": "2019-02-05 23:57:37 +0700"
     },
     "done": false
@@ -987,13 +987,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-01-08 23:28:39 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-01-08 23:28:39 +0700"
     },
@@ -1031,8 +1031,8 @@
       "minecraft:magma_cube": "2019-01-16 12:45:00 +0700",
       "minecraft:spider": "2019-01-12 11:11:17 +0700",
       "minecraft:zombie": "2019-01-08 21:26:46 +0700",
-      "minecraft:creeper": "2019-01-15 22:07:57 +0700",
       "minecraft:drowned": "2019-02-09 00:18:20 +0700",
+      "minecraft:creeper": "2019-01-15 22:07:57 +0700",
       "minecraft:zombie_villager": "2019-02-09 14:02:55 +0700",
       "minecraft:slime": "2019-01-12 10:17:21 +0700"
     },
@@ -1846,8 +1846,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_mountains": "2019-02-06 00:45:55 +0700",
-      "minecraft:forest": "2019-01-07 23:49:02 +0700",
       "minecraft:mountains": "2019-01-07 23:44:53 +0700",
+      "minecraft:forest": "2019-01-07 23:49:02 +0700",
       "minecraft:taiga": "2019-01-12 11:24:15 +0700",
       "minecraft:giant_tree_taiga": "2019-01-12 15:22:08 +0700",
       "minecraft:snowy_tundra": "2019-02-06 00:45:51 +0700",
@@ -1855,8 +1855,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-01-12 15:19:29 +0700",
       "minecraft:beach": "2019-01-12 15:17:28 +0700",
       "minecraft:dark_forest": "2019-01-12 00:31:33 +0700",
-      "minecraft:lukewarm_ocean": "2019-01-12 15:17:41 +0700",
       "minecraft:river": "2019-01-08 21:24:53 +0700",
+      "minecraft:lukewarm_ocean": "2019-01-12 15:17:41 +0700",
       "minecraft:wooded_mountains": "2019-01-14 22:42:19 +0700",
       "minecraft:wooded_hills": "2019-01-07 23:45:34 +0700",
       "minecraft:swamp": "2019-01-07 23:49:34 +0700",

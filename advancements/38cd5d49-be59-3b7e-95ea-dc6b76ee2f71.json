@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-02-11 21:50:41 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-01-10 23:57:02 +0700"
@@ -122,6 +128,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2019-01-13 21:49:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2019-02-11 23:25:54 +0700"
     },
     "done": true
   },
@@ -324,6 +336,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-01-10 23:57:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2019-02-11 23:18:43 +0700"
     },
     "done": true
   },
@@ -699,13 +717,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-01-11 00:14:23 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-01-11 00:14:23 +0700"
     },
@@ -725,6 +743,7 @@
       "minecraft:magma_cube": "2019-02-06 21:45:12 +0700",
       "minecraft:spider": "2019-01-10 23:37:22 +0700",
       "minecraft:zombie": "2019-01-08 23:27:02 +0700",
+      "minecraft:drowned": "2019-02-11 21:37:33 +0700",
       "minecraft:creeper": "2019-01-16 22:46:18 +0700",
       "minecraft:slime": "2019-01-13 21:51:02 +0700"
     },
@@ -745,6 +764,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-01-08 23:25:30 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-02-11 21:47:21 +0700"
     },
     "done": true
   },
@@ -769,6 +794,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-01-13 22:24:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2019-02-11 23:25:54 +0700"
     },
     "done": true
   },
@@ -958,6 +989,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-02-11 21:50:41 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2019-01-08 00:05:10 +0700"
@@ -973,6 +1010,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-01-13 22:24:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2019-02-11 23:21:24 +0700"
     },
     "done": true
   },
@@ -1075,6 +1118,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-01-11 21:53:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-02-11 23:21:24 +0700"
     },
     "done": true
   },
@@ -1285,12 +1334,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-02-06 23:00:57 +0700",
+      "minecraft:jungle_edge": "2019-02-11 23:42:35 +0700",
       "minecraft:forest": "2019-01-10 23:46:34 +0700",
       "minecraft:mountains": "2019-01-08 00:05:20 +0700",
       "minecraft:taiga": "2019-01-16 22:48:00 +0700",
       "minecraft:deep_cold_ocean": "2019-02-06 22:55:07 +0700",
       "minecraft:desert": "2019-02-06 23:05:54 +0700",
       "minecraft:deep_frozen_ocean": "2019-02-06 23:02:35 +0700",
+      "minecraft:jungle": "2019-02-11 23:20:05 +0700",
+      "minecraft:jungle_hills": "2019-02-11 23:22:35 +0700",
       "minecraft:beach": "2019-02-06 22:55:30 +0700",
       "minecraft:dark_forest": "2019-02-07 20:44:57 +0700",
       "minecraft:river": "2019-01-08 00:05:52 +0700",
@@ -1305,6 +1357,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2019-01-10 23:57:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2019-02-11 21:50:41 +0700"
     },
     "done": true
   },
@@ -1440,6 +1498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2019-02-11 21:50:41 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-01-11 00:01:34 +0700"
@@ -1467,6 +1531,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-01-11 21:53:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-02-11 23:20:24 +0700"
     },
     "done": true
   },
@@ -1515,6 +1585,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-01-08 23:22:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2019-02-11 23:25:54 +0700"
     },
     "done": true
   },
